@@ -1,0 +1,2 @@
+# jupython
+Bunch Jupyter exercises
