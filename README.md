@@ -1,2 +1,2 @@
 # jupython
-Bunch Jupyter exercises
+A Bunch of Python Exercises!
